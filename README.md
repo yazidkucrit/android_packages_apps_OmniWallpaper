@@ -1,4 +1,4 @@
-android_packages_apps_OmniWallpaper
+OmniWallpaper
 ===================================
 
 Basic wallpaper from Cyanogenmod
